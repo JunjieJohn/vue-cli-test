@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <p>initial content.........</p>
+    <!-- <p>initial content.........</p> -->
+    <p>here is the updated content</p>
   </div>
 </template>
 
